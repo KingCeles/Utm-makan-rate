@@ -1,0 +1,5 @@
+{
+  "name": "UTM MakanRate",
+  "description": "A platform for UTM students to rate and review local food spots anonymously.",
+  "requestFramePermissions": []
+}
